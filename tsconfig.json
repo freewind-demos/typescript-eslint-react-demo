@@ -3,10 +3,11 @@
     "strict": true,
     "target": "es6",
     "module": "commonjs",
+    "jsx": "react",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
   },
-  "files": [
-    "hello.ts"
+  "exclude": [
+    "node_modules"
   ]
 }

@@ -1,9 +1,11 @@
-TypeScript Eslint Demo
+TypeScript Eslint React Demo
 ===========================
+
+Use eslint react rules to lint code
 
 ```
 npm install
-npm run lint
+npm start
 ```
 
-will see some lint errors
+It will open page on browser automatically.
